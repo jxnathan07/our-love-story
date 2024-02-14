@@ -141,5 +141,3 @@ footer p::after {
         transform: translateY(100vh); /* End animation below the viewport */
     }
 }
-
-git init
